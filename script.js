@@ -39,9 +39,11 @@ onload = () => {
       tFlag = false,
       albums = [
         "Lời chúc 20-10",
+        "Tình đắng như ly cà phê",
         "Đi giữa trời rực rỡ",
       ],
       trackNames = [
+        "G",
         "G",
         "Ngô Lan Hương",
       ],
@@ -49,6 +51,7 @@ onload = () => {
       trackUrl = [
         "./nhac.mp3",
         "./nhac2.mp3",
+        "./nhac3.mp3",
       ],
       playPreviousTrackButton = $("#play-previous"),
       playNextTrackButton = $("#play-next"),
