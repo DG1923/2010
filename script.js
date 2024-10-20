@@ -38,8 +38,9 @@ onload = () => {
       buffInterval = null,
       tFlag = false,
       albums = [
-        "Lời chúc 20-10",
         "Tình đắng như ly cà phê",
+        "Lời chúc 20-10",
+
         "Đi giữa trời rực rỡ",
       ],
       trackNames = [
@@ -49,8 +50,9 @@ onload = () => {
       ],
       albumArtworks = ["_1", "_2","_3"],
       trackUrl = [
-        "./nhac.mp3",
         "./nhac3.mp3",
+        "./nhac.mp3",
+
         "./nhac2.mp3",
 
       ],
