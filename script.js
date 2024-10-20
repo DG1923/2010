@@ -47,11 +47,12 @@ onload = () => {
         "G",
         "Ngô Lan Hương",
       ],
-      albumArtworks = ["_1", "_2"],
+      albumArtworks = ["_1", "_2","_3"],
       trackUrl = [
         "./nhac.mp3",
-        "./nhac2.mp3",
         "./nhac3.mp3",
+        "./nhac2.mp3",
+
       ],
       playPreviousTrackButton = $("#play-previous"),
       playNextTrackButton = $("#play-next"),
